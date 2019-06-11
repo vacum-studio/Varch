@@ -1,3 +1,5 @@
+# Arrow6
+# Creates a .varch file with commpressed files in it
 # imports
 
 import sys
